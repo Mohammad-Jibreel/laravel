@@ -20,8 +20,8 @@
             }
         </style>
     </head>
-    <body class="antialiased">
-        This is Staging Environment - Mohammad Jibreel
+    <body>
+        <h2>Mohammad Jibreel</h2>
         </div>
     </body>
 </html>
